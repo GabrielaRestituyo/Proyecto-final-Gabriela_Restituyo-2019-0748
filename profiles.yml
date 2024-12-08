@@ -1,0 +1,14 @@
+data_pipeline:
+  outputs:
+    dev:
+      account: SS83898
+      database: bdt_bd
+      password: GR12rose
+      role: dbt_role
+      schema: bdt_schema
+      threads: 10
+      type: snowflake
+      user: GABRIELARESTITUYO
+      warehouse: dbt_wh
+  target: dev
+  

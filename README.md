@@ -1,2 +1,15 @@
-# Proyecto-final-Gabriela_Restituyo-2019-0748
- ELT Pipeline with Snowflake, DBT, and Airflow  This project demonstrates how to build an ELT (Extract, Load, Transform) pipeline using cutting-edge tools such as Snowflake, DBT, and Airflow. By leveraging these technologies, we efficiently load and transform data to create robust, scalable data models for business insights.
+Welcome to your new dbt project!
+
+### Using the starter project
+
+Try running the following commands:
+- dbt run
+- dbt test
+
+
+### Resources:
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
